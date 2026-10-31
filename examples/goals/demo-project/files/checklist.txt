@@ -1,0 +1,6 @@
+DEMO CHECKLIST — sample data
+
+[ ] Confirm the demo plan is current
+[ ] Review staged post captions
+[ ] Approve (or reject) each staged post
+[ ] Ask the agent to regenerate the bridge snapshot

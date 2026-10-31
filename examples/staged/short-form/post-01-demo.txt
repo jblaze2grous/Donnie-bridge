@@ -1,0 +1,4 @@
+DEMO short-form package 01 — sample data
+Video: demo-lighthouse-clip.mp4 (fictional)
+Caption: see post-01-demo-caption.md
+Status: staged only — nothing posts without the owner's approval.

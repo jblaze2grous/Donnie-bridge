@@ -1,0 +1,21 @@
+# Secrets — never commit these
+.token
+.env
+
+# Generated output (rebuild with worker/gen_worker.py)
+dist/
+worker/dist/
+snapshot.json
+
+# Your REAL scrubbed corpus lives next to the generator or in your own
+# workspace — the only corpus that belongs in this repo is the fake one
+# under examples/.
+/corpus.md
+worker/corpus.md
+
+# Python
+__pycache__/
+*.pyc
+
+# Local GitHub sync bookkeeping
+*.muse-github-snapshot-sync.json
